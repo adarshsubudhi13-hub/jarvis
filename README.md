@@ -1,6 +1,6 @@
 # Welcome to your Lovable project
 
-This project link[https://screenshot-mirror-70.lovable.app](https://screenshot-mirror-70.lovable.app).
+This project link [https://screenshot-mirror-70.lovable.app](https://screenshot-mirror-70.lovable.app).
 
 ## Build with Lovable
 
