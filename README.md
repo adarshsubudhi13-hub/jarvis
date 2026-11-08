@@ -1,10 +1,10 @@
 # Welcome to your Lovable project
 
-This project was built with [Lovable](https://lovable.dev).
+This project link[https://screenshot-mirror-70.lovable.app](https://screenshot-mirror-70.lovable.app).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://screenshot-mirror-70.lovable.app) and keep building.
+Open your project [https://screenshot-mirror-70.lovable.app](https://screenshot-mirror-70.lovable.app) and keep building.
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
 - **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
